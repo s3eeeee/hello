@@ -3,6 +3,13 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello Saeed!";
+    
+    for (size_t i = 0; i < 10; i++)
+    {
+        std::cout << "Hello Saeed!";
+    }
+    
+    
+
     return 0;
 }
